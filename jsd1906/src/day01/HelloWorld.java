@@ -1,4 +1,5 @@
 package day01;
+//aaa
 /*作业：
  * 1)创建一个项目myproject
  * 2）在项目中创建一个test包
